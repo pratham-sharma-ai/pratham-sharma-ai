@@ -52,4 +52,4 @@ With 5+ years of **global experience** (South Korea 🇰🇷, Europe 🇪🇺, a
 
 ## 🤝 Let's Connect!  
 📬 **Email**: [pgpm2024.pratham@spjimr.org](mailto:pgpm2024.pratham@spjimr.org)  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/pratham-sharma-spjimr/]
+🔗 **LinkedIn**: https://www.linkedin.com/in/pratham-sharma-spjimr/
