@@ -45,7 +45,7 @@ With 5+ years of **global experience** (South Korea 🇰🇷, Europe 🇪🇺, a
 
 Chat with my AI career coach. Click the button below to launch it in a new tab:
 
-[![Launch Chatbot](https://img.shields.io/badge/Launch_Chatbot-🚀_Click_Here-blueviolet?style=for-the-badge)](https://huggingface.co/spaces/prathamZoro/Career_Conversation)
+[![Launch Chatbot](https://img.shields.io/badge/🚀%20Launch%20Chatbot-blueviolet?style=for-the-badge)](https://huggingface.co/spaces/prathamZoro/Career_Conversation)
 
 ---
 
