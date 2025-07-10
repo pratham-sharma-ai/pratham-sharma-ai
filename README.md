@@ -41,18 +41,6 @@ With 5+ years of **global experience** (South Korea 🇰🇷, Europe 🇪🇺, a
 
 ---
 
-## 🤖 Try My AI Chatbot
-
-<iframe
-  src="https://huggingface.co/spaces/prathamZoro/Career_Conversation"
-  width="100%"
-  height="600"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-/>
-
----
-
 ## 🎯 Currently Focused On  
 - 🚀 Preparing to **join a global AI consulting role**  
 - 🧠 Exploring **GenAI solutions** for varied clients  
