@@ -41,6 +41,15 @@ With 5+ years of **global experience** (South Korea 🇰🇷, Europe 🇪🇺, a
 
 ---
 
+## 🤖 Try My AI Chatbot
+
+Chat with my AI career coach built using Gradio on Hugging Face Spaces.  
+Click the button below to launch it in a new tab:
+
+[![Launch Chatbot](https://img.shields.io/badge/🚀%20Launch%20Chatbot-Click%20Here-blue?style=for-the-badge)](https://huggingface.co/spaces/prathamZoro/Career_Conversation)
+
+---
+
 ## 🎯 Currently Focused On  
 - 🚀 Preparing to **join a global AI consulting role**  
 - 🧠 Exploring **GenAI solutions** for varied clients  
